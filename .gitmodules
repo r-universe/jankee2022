@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ebal"]
+	path = ebal
+	url = https://github.com/cran/ebal
+	shallow = true
+	registered = true
+[submodule "KRLS"]
+	path = KRLS
+	url = https://github.com/cran/KRLS
+	shallow = true
+	registered = true
+[submodule "Synth"]
+	path = Synth
+	url = https://github.com/cran/Synth
+	shallow = true
+	registered = true
