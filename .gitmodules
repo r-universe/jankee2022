@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "ebal"]
-	path = ebal
-	url = https://github.com/cran/ebal
 [submodule "KRLS"]
 	path = KRLS
 	url = https://github.com/cran/KRLS
 [submodule "Synth"]
 	path = Synth
 	url = https://github.com/cran/Synth
+[submodule "ebal"]
+	path = ebal
+	url = https://github.com/cran/ebal
